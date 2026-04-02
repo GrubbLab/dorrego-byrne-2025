@@ -1,3 +1,7 @@
+These are the MATLAB scripts used to analyse the data on Dorrego-Rivas, Byrne et al., 2025 (eLife); https://doi.org/10.7554/eLife.105271.3; PMID: 41399104 
+
+
+
 ts_mat: it generates series resistance, input resistance and capacitance values from test pulse recordings
 
 autoinh_vc_ana: it analyses two auto-evoked inhibition current recordings by averaging sweeps to produce mean current traces and calculating the response charge (pC) for each.
